@@ -1,0 +1,143 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FITNESS CLUB</title>
+</head>
+<style>
+    #timings{
+        margin-left: 110px;
+        
+    }
+    h3{
+        margin-left: 1030px;
+ 
+        
+    }
+    #register{
+        
+        border-style: groove;
+        border-color: black;
+        padding-left: 5px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-right: 5px;
+        
+        margin-left: 530px;
+        
+        
+       
+    }
+    #forimage{
+        border-style: groove;
+        text-shadow: 20px;
+        text-decoration: blueviolet;
+        padding-left: 150px;
+        padding-top: 150px;
+        padding-bottom: 250px;
+        padding-right: 150px;
+        background-image: url('https://images.pexels.com/photos/414102/pexels-photo-414102.jpeg?cs=srgb&dl=pexels-pixabay-414102.jpg&fm=jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    #increase{
+        height: 465px;
+    }
+    body{
+        background-color: aquamarine;
+        background-image: url('https://media.istockphoto.com/id/1061222280/photo/abstract-blue-background-blue-paper-in-pastel-colours-bright-halftone-pattern-light-paper.jpg?b=1&s=170667a&w=0&k=20&c=p7V5Bp2-T9g7jtMVzh6l6jYbM1BWKGPeFBlAXABoEsw=');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    #register{
+        background-color: azure;
+    }
+    #writing{
+        letter-spacing: 10px;
+        word-spacing: 15px;
+    }
+    
+        
+    
+
+</style>
+<body>
+   <center id="writing"><U><h1><i>HVY.FITNESS CLUB</i></h1></U></center>
+   <hr>
+   <i><h3><u>CONTACT US</u>:-<br>
+    <p>+91 9346613812<br>
+    varmaharshit77@gmail.com<br></p>
+    <a href="https://www.facebook.com/">
+        <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="harshith" style="width: 20px;"></a>
+        <a href="https://www.instagram.com/">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/769px-Instagram-Icon.png" alt="harshith" style="width:20px ;"></a>
+
+
+   </h3>
+   <hr>
+   
+   <h3><u>CLUB TIMING</u>:-
+    <centre id="timings">5am to 10am</centre><br>
+   <centre id="timings">5pm to 10pm</centre></h3>
+   <hr>
+   <img src="https://media.istockphoto.com/photos/view-of-a-row-of-treadmills-in-a-gym-with-people-picture-id1183038884?b=1&k=20&m=1183038884&s=612x612&w=0&h=i_ai-BOp_ts9K9dMWgeBTqvPgZxIZtop7ZpU58grSOA=" style="width:100% ;">
+   <hr>
+     <a href="file:///C:/Users/DELL/.vscode/html%20part2%20file.html" id="register" ><b>REGISTER NOW</b></a>
+    <hr>
+   <h2><center id="forimage"> In Our glorious, maddening city, your workout can be the difference between good day and bad. </center></h2><br><br><br>
+   <hr>
+               <center ><h1><b>ABOUT US</b></h1>
+            <h4 id="forabout">HVY.Fitness Club is not only a club,its a lifestyle.
+                A modern take on fitness that flips your world up-side down.<br><br><br>
+                We believe in creating an environment, where our clients and staff can feel comfortable. 
+                A place where you can be yourself and everyone is treated as an equal<br><br><br>
+                Our goal is to create an unforgettable fitness experience that 
+                uses raw training perspectives and pampers you with outstanding hospitality<br><br><br>
+                Our clients experience a unique take on health and fitness where they have access to Classes,
+                 Personal Training, HVY Events, and friendly staff members who will help them achieve their goals.<br><br><br>
+                 Our team is made up of knowledgeable, passionate,
+                  and creative individuals who make The hvy experience one of a kind.
+
+            </h4>
+            <hr>
+                    <h1>PERSONAL TRAINING</h1>
+                    <h4>Whether training a group or one-on-one, fundamentals and
+                         basic technique are not taken lightly at The HVY.fitness club.
+                         We have the highest calibre coaching staff and highest quality service,
+                          only at the hvy.fitness club</h4>
+
+                         <hr>
+                <h1>NUTRITIONIST</h1>
+                <h4>Working on your Madness in the gym but need to work on your nutrition? We have you covered!
+                     The HVY provides you
+                      the greatest nutritional advice that will 
+                      compliment you in achieving your health and fitness goals.</h4>
+                      <hr>
+                    <h1>NUTRITION</h1>  </center>
+                    <h4><u>Important Nutrients:-</u><br>
+                    <ol>
+                        <li>Calcium</li>
+                        <li>Cholesterol</li>
+                        <li>Fats</li>
+                        <li>Fiber</li>
+                        <li>Vitamins and Minerals</li>
+                    </ol></h4>
+                    <hr>
+                    <h1>GALLERY</h1>
+                   <nav> <img src="https://images.unsplash.com/photo-1598289431512-b97b0917affc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Zml0bmVzcyUyMGNsdWJ8ZW58MHx8MHx8&w=1000&q=80" alt="inside" style="width:50%; height:360px"><img src="https://img.freepik.com/premium-photo/gym-equipments-fitness-club_23-2147949744.jpg?w=2000" alt="inside" style="width:50%; height:360px"></nav>
+                    <nav><img src="https://content3.jdmagicbox.com/comp/nagpur/l7/0712px712.x712.171003201629.p4l7/catalogue/fitness-club-gym-manish-nagar-nagpur-gyms-kwje3.jpg" alt="inside" style="width:50%; height:360px"><img src="https://media.istockphoto.com/id/1132006407/photo/empty-gym.jpg?s=612x612&w=0&k=20&c=si73-OzIvdfuD7J82-WGJogpxgulXHVxmzldCjopuno=" alt="inside" id="increase" style="width:50%; height:360px"></nav>
+                    <hr>
+
+    <h2>UPCOMING EVENTS</h2>
+ <h4>We are Conducting Musical Events on December 25th</h4>
+ <img src="https://img.freepik.com/free-vector/gradient-christmas-tinsel-background_52683-76117.jpg?w=2000" alt="event" style="width:100% ;"><br><br><br><br><br>
+ <center><a href="file:///C:/Users/DELL/.vscode/html%20project4.html"><button>PARTICIPATE NOW</button></a></center>
+ 
+                
+   
+
+   </i>
+   
+</body>
+</html>
